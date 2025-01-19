@@ -58,7 +58,8 @@ The evaluation provided significant insights, with the **Random Forest (RF)** cl
 ### Published in
 Proceedings of the 4th International Conference on Advanced Research in Computing (ICARC)
 **IEEE Xplore®** 
-DOI: [10.1109/ICARC61713.2024.10499746](https://ieeexplore.ieee.org/document/10499746)
+- DOI: [10.1109/ICARC61713.2024.10499746](https://ieeexplore.ieee.org/document/10499746)
+- [Research Paper (PDF)](docs/Sinhala-English_Code-Mixed_Language_Dataset_with_Sentiment_Annotation.pdf)
 ## Citation
 If you use this dataset in your research, please cite:
 
